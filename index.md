@@ -1,12 +1,13 @@
 ---
-layout: home
+layout: splash
 title: "Neville Iregi"
-author_profile: true
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/banner.jpg
   caption: "Empowering Africa through Secure Digital Transformation"
+author_profile: true
 ---
 
 # **Neville Iregi**
@@ -26,4 +27,4 @@ My mission is to catalyze digital transformation across Africa by integrating **
 - [Resume](/resume)
 - [Projects](/projects)
 - [Lab Challenges](/labs)
-- [Contact](/contact)
+- [Contact](/contacts)

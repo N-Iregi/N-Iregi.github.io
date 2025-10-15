@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Neville Iregi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Empowering Africa through secure and scalable technology solutions."
   links:
     - label: "LinkedIn"

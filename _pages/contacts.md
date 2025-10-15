@@ -1,6 +1,6 @@
 ---
 title: Contacts
-permalink: /contacts/
+permalink: /contact/
 layout: default
 author_profile: true
 ---

@@ -9,12 +9,12 @@ header:
   caption: "Empowering Africa through Secure Digital Transformation"
 ---
 
-# 👋 **Neville Iregi**
+# **Neville Iregi**
 
 <img src="/assets/images/bio-photo.png" alt="Neville Iregi" width="200" style="border-radius: 50%; margin: 10px 0;">
 
 **Software Engineer | Cybersecurity Enthusiast | Technical Writer**  
-📍 Kigali, Rwanda | 📧 [n.iregi@alustudent.com](mailto:n.iregi@alustudent.com)
+📍 Nairobi, Kenya | 📧 [n.iregi@alustudent.com](mailto:n.iregi@alustudent.com)
 
 ---
 

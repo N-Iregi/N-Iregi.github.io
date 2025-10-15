@@ -1,7 +1,7 @@
 ---
 title: "Lab Challenges"
 permalink: /labs/
-layout: default
+layout: single
 author_profile: true
 ---
 

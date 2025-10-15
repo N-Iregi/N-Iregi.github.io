@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Neville Iregi Portfolio
+email: n.iregi@alustudent.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Software Engineer | Cloud & Network Security Learner | Technical Writer
+twitter_username: 0x6E6576
+github_username: N-Iregi
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,34 +56,40 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Neville Iregi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Empowering Africa through secure and scalable technology solutions."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/neville-iregi-b9972b182"
+   # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/N-Iregi"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:n.iregi@alustudent.com"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@n.iregi"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/neville-iregi-b9972b182"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/N-Iregi"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:n.iregi@alustudent.com"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@n.iregi"
 
 defaults:
   # _posts

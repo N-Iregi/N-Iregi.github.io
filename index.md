@@ -10,9 +10,6 @@ header:
 ---
 
 # **Neville Iregi**
-
-<img src="/assets/images/bio-photo.png" alt="Neville Iregi" width="200" style="border-radius: 50%; margin: 10px 0;">
-
 **Software Engineer | Cybersecurity Enthusiast | Technical Writer**  
 📍 Nairobi, Kenya | 📧 [n.iregi@alustudent.com](mailto:n.iregi@alustudent.com)
 

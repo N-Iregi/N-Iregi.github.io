@@ -17,7 +17,6 @@ author_profile: true
 ---
 
 ## 💬 Professional Statement
-
 I am passionate about helping African businesses thrive in the digital age through **secure software solutions** and **innovative digital systems**.
 
 My mission is to catalyze digital transformation across Africa by integrating **cybersecurity(cloud and network security), financial technology, and scalable software development**.

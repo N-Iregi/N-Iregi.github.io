@@ -5,5 +5,7 @@ main:
     url: /projects/
   - title: "Lab Challenges"
     url: /labs/
+  - title: "Articles"
+    url: /articles/
   - title: "Contact"
     url: /contact/

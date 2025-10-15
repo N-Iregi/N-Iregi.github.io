@@ -63,7 +63,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/neville-iregi-b9972b182"
+      url: "https://www.linkedin.com/in/neville-iregi-b9972b182/"
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
      # url: "https://twitter.com/"
@@ -81,7 +81,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/neville-iregi-b9972b182"
+      url: "https://www.linkedin.com/in/neville-iregi-b9972b182/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/N-Iregi"

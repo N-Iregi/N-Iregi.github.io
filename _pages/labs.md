@@ -26,11 +26,14 @@ Improved understanding of network protocols, packet inspection, and intrusion in
 ### **2. Web Requests and HTTP Methods Lab (Hack The Box Academy)**
 **Problem Statement:**
 Investigate how HTTP requests (GET, POST, PUT, DELETE) work and understand their security implications in web applications.
+
 **Approach:**
 Tested various HTTP methods in simulated environments using intercepting proxies and command-line tools to observe backend behaviors.
+
 **Tools Used:**
 1. cURL
 2. Web Browser
+
 **Key Lessons Learned:**
 1. Understanding and testing HTTP request types
 2. Identifying web vulnerabilities through request tampering

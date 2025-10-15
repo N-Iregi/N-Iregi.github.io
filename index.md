@@ -26,5 +26,4 @@ My mission is to catalyze digital transformation across Africa by integrating **
 - [Resume](/resume)
 - [Projects](/projects)
 - [Lab Challenges](/labs)
-- [Articles](/articles)
 - [Contact](/contact)

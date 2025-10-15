@@ -1,7 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
-layout: default
+layout: single
 ---
 
 # 🎓 Educational Background

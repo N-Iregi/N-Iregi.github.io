@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: Resume
+title: "Resume"
 layout: default
 ---
 

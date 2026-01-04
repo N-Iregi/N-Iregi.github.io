@@ -1,9 +1,0 @@
-main:
-  - title: "Resume"
-    url: /resume/
-  - title: "Projects"
-    url: /projects/
-  - title: "Lab Challenges"
-    url: /labs/
-  - title: "Contact"
-    url: /contact/

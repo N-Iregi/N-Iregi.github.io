@@ -1,5 +1,5 @@
 <!-- 
-  === [YOUR NAME] – CLOUD BREAKER LOGS ===
+  === NEVILLE IREGI – CLOUD BREAKER & FULL STACK LEARNING LOGS ===
   ALU Software Engineering | Full-Stack → Cloud Pentester Path
   Log Entry: January 2026
 -->
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Mission-Build%20to%20Break-blue?style=for-the-badge" alt="Mission" />
   <br><br>
   <h1>Cloud Breaker Logs ☁️💥</h1>
-  <h3>By [Your First Name] – ALU Full-Stack Student & Aspiring Cloud Red Teamer</h3>
+  <h3>By NEVILLE IREGI – ALU Full-Stack Student & Aspiring Cloud Red Teamer</h3>
 </div>
 
 These are my field notes from the front lines of cloud security:  
@@ -46,6 +46,11 @@ Think of these as ops reports from my lab sessions. Each includes setup code, at
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+  <img
+  src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"
+  />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -80,8 +85,8 @@ If my logs resonate, or if you're scouting juniors who can deploy, exploit, and 
 
 Open to remote roles at startups pushing cloud security (e.g., Wiz, Snyk) or African tech scaling defenses.
 
-💬 LinkedIn DM: linkedin.com/in/[your-username]  
-📧 [your.email@domain.com]  
+💬 LinkedIn DM: linkedin.com/in/neville-iregi  
+📧 n.iregi@alustudent.com  
 🌐 [your-twitter-or-x-handle] (if active)
 
 <div align="center">

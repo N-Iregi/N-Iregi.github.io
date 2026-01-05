@@ -13,9 +13,8 @@
 </div>
 
 These are my field notes from building, breaking, and hardening software, cloud, & network systems.  
-Started with foundational networking and secure coding → now chaining real cloud exploits.
+- Started with foundational networking and secure coding → now chaining real cloud exploits.
 
-**Current focus**: AWS IAM escalation, serverless misconfigs, SSRF chains, Azure security posture tools.
 
 ## Skills and Toolkit
 

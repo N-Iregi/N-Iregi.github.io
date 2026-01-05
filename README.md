@@ -1,5 +1,5 @@
 <!-- 
-  === [YOUR NAME] – CLOUD BREAKER LOGS ===
+  === NEVILLE IREGI – SOFTWARE ENGINEERING & CYBERSECURITY PORTFOLIO ===
   ALU Software Engineering | Full-Stack Track | Cloud & Network Security
   Last updated: January 2026
 -->
@@ -8,16 +8,30 @@
   <img src="https://img.shields.io/badge/Log%20Status-Active%20Recon-orange?style=for-the-badge&logo=aws&logoColor=white" alt="Log Status" />
   <img src="https://img.shields.io/badge/Mission-Build%20to%20Break-blue?style=for-the-badge" alt="Mission" />
   <br><br>
-  <h1>Cloud Breaker Logs ☁️💥</h1>
+  <h1> SOFTWARE ENGINEERING & CYBERSECURITY PORTFOLIO </h1>
   <h3>By NEVILLE IREGI – ALU Full-Stack Student & Emerging Cloud Red Teamer</h3>
 </div>
 
-These are my field notes from building, breaking, and hardening cloud & network systems.  
+These are my field notes from building, breaking, and hardening software, cloud, & network systems.  
 Started with foundational networking and secure coding → now chaining real cloud exploits.
 
 **Current focus**: AWS IAM escalation, serverless misconfigs, SSRF chains, Azure security posture tools.
 
-### 🕵️‍♂️ Active Recon Surfaces (Q1 2026)
+## Skills and Toolkit
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-007ACC?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+</div>
+
+## 🕵️‍♂️ Active Recon Surfaces (Q1 2026)
 
 - IAM privilege escalation & rollback attacks
 - Serverless injection & Lambda role abuse
@@ -25,7 +39,7 @@ Started with foundational networking and secure coding → now chaining real clo
 - API abuse patterns & metadata leaks
 - Low-level memory fundamentals (side exploration)
 
-### 📓 Field Logs – Key Exploits, Labs & Projects
+## Key Exploits, Labs & Projects
 
 | Log ID | Entry Title | Environment / Tools | Attack / Achievement Narrative | Skills Demonstrated | Link / Status |
 |--------|-------------|---------------------|--------------------------------|---------------------|---------------|
@@ -42,21 +56,8 @@ Started with foundational networking and secure coding → now chaining real clo
 | SIDE-002 | Regex Data Extraction Tool | Python | Automated extraction of emails, URLs, phones, credit cards, timestamps from unstructured text → reusable module with test cases. | Python · Regular Expressions · Problem Solving | [GitHub Repo](https://github.com/N-Iregi/alu_regex-data-extraction-N-Iregi) – May–Jun 2025 |
 | ORIGIN | Low-Level Programming & Reverse Engineering | C + Assembly + GDB | Memory management, pointers, strings → custom keygen → gdb debugging → binary RE → foundation for exploit dev. | C · x86 Assembly · Memory Management · GDB · Reverse Engineering | [GitHub Repo](https://github.com/N-Iregi/alx-low_level_programming) – Jan 2023–Jan 2024 |
 
-### ⚙️ Current Gear & Playground
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-007ACC?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-</div>
-
-### 🗺️ Mission Trajectory
+## 🗺️ Mission Trajectory
 
 **Origin → Foundations** (2023–2025)  
 Low-level C/assembly → networking (VLANs, VPNs, WLAN) → secure coding & threat intel tools.
@@ -71,7 +72,7 @@ Full-Stack apps → AWS/Azure cloud exploits → IAM/serverless chains → proac
 
 **Philosophy**: Every misconfiguration is a lesson. Every exploit is a story. Every fix makes the system stronger.
 
-### 📡 Signal Check – Let's Connect
+## Let's Connect
 
 Open to:  
 • Feedback on labs/write-ups  

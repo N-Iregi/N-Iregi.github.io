@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Mission-Build%20to%20Break-blue?style=for-the-badge" alt="Mission" />
   <br><br>
   <h1>Cloud Breaker Logs ☁️💥</h1>
-  <h3>By [Your Full Name] – ALU Full-Stack Student & Emerging Cloud Red Teamer</h3>
+  <h3>By NEVILLE IREGI – ALU Full-Stack Student & Emerging Cloud Red Teamer</h3>
 </div>
 
 These are my field notes from building, breaking, and hardening cloud & network systems.  

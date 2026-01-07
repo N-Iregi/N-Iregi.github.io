@@ -1,6 +1,8 @@
 ---
+layout single
 title: Projects
 permalink: /projects/
+author_profile: true
 ---
 
 ## 🧪 Featured Projects
@@ -12,7 +14,8 @@ permalink: /projects/
 - Regex validation
 - Load-balanced deployment
 
-🔗 https://github.com/N-Iregi/threat_detector
+🔗 **Github Repository**
+View project on Github: https://github.com/N-Iregi/threat_detector
 
 ---
 
@@ -23,7 +26,8 @@ permalink: /projects/
 - Duplicate prevention
 - Admin dashboard
 
-🔗 https://github.com/N-Iregi/Quick-Open-Vote-system
+🔗 **Github Repository**
+View project on Github: https://github.com/N-Iregi/Quick-Open-Vote-system
 
 ---
 
@@ -33,4 +37,5 @@ permalink: /projects/
 - Extracts emails, URLs, phone numbers, credit cards
 - Modular & reusable
 
-🔗 https://github.com/N-Iregi/alu_regex-data-extraction-N-Iregi
+🔗 **Github Repository**
+View project on Github: https://github.com/N-Iregi/alu_regex-data-extraction-N-Iregi

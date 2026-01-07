@@ -3,7 +3,7 @@ email: n.iregi@alustudent.com
 description: >
   Software Engineer and Cybersecurity Enthusiast specializing in
   Cloud Security, IAM, Network Defense, and Secure Software Engineering.
-  Hands-on experience with AWS, Azure, and offensive security labs.
+  Hands-on experience with AWS, Azure, and offensive & defensive security labs.
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
@@ -22,7 +22,7 @@ plugins:
 
 author:
   name   : "Neville Iregi"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Empowering Africa through secure and scalable technology solutions."
   links:
     - label: "LinkedIn"

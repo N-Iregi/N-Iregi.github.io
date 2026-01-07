@@ -15,7 +15,7 @@ author_profile: true
 - Load-balanced deployment
 
 🔗 **Github Repository**
-View project on Github: (https://github.com/N-Iregi/threat_detector)
+👉 [View project on GitHub](https://github.com/N-Iregi/threat_detector)
 
 ---
 
@@ -27,7 +27,7 @@ View project on Github: (https://github.com/N-Iregi/threat_detector)
 - Admin dashboard
 
 🔗 **Github Repository**
-View project on Github: (https://github.com/N-Iregi/Quick-Open-Vote-system)
+👉 [View project on Github](https://github.com/N-Iregi/Quick-Open-Vote-system)
 
 ---
 
@@ -38,4 +38,4 @@ View project on Github: (https://github.com/N-Iregi/Quick-Open-Vote-system)
 - Modular & reusable
 
 🔗 **Github Repository**
-View project on Github: (https://github.com/N-Iregi/alu_regex-data-extraction-N-Iregi)
+👉 [View project on GitHub](https://github.com/N-Iregi/alu_regex-data-extraction-N-Iregi)

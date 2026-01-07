@@ -1,11 +1,60 @@
-title: Neville Iregi – Cloud Breaker Logs
-description: ALU Full-Stack Student → Cloud Pentester | AWS IAM, S3, SSRF exploits & write-ups
+title: Neville Iregi | Software Engineering & Cybersecurity Portfolio
+email: n.iregi@alustudent.com
+description: >
+  Software Engineer and Cybersecurity Enthusiast specializing in
+  Cloud Security, IAM, Network Defense, and Secure Software Engineering.
+  Hands-on experience with AWS, Azure, and offensive security labs.
 
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
+
+search: true
+markdown: kramdown
+permalink: /:title/
+
+include:
+  - _pages
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-# Optional customizations
-show_downloads: true
-google_analytics: UA-XXXXX-X   # optional – add your GA4 ID if you have one
+author:
+  name   : "Neville Iregi"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Empowering Africa through secure and scalable technology solutions."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/neville-iregi/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/N-Iregi"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:n.iregi@alustudent.com"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@n.iregi"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /resume/
+  - title: "Projects"
+    url: /projects/
+  - title: "Lab Challenges"
+    url: /labs/
+  - title: "Contact"
+    url: /contacts/
+

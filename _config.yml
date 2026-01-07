@@ -6,7 +6,7 @@ description: >
   Hands-on experience with AWS, Azure, and offensive & defensive security labs.
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 
 search: true
 markdown: kramdown

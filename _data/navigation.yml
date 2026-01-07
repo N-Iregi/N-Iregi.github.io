@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Lab Challenges"
+    url: "/labs/"
+  - title: "CV & Resume"
+    url: "/assets/cv/NEVILLE IREGI CV.pdf"
+  - title: "Contact"
+    url: "/contact/"

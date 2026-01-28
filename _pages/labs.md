@@ -26,7 +26,7 @@ AWS CLI · IAM · Lambda · STS
 - Serverless still requires strong security controls
 
 📄 **Lab Report**
-<iframe src="/assets/reports/CloudGoat-Vulnerable-Lambda.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/reports/CloudGoat Vulnerable_Lambda.pdf" width="100%" height="600px"></iframe>
 
 ---
 

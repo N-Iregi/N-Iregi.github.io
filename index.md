@@ -65,6 +65,7 @@ To build and secure scalable digital systems by combining
 ### ☁️ DevOps & Infrastructure
 <i class="fab fa-docker"></i> Docker &nbsp; | &nbsp;
 <i class="fab fa-linux"></i> Linux &nbsp; | &nbsp;
+<i class="fa-brands fa-windows"></i> Windows &nbsp; | &nbsp;
 <i class="fas fa-server"></i> HAProxy &nbsp; | &nbsp;
 <i class="fas fa-server"></i> NGINX &nbsp; | &nbsp;
 <i class="fab fa-github"></i> GitHub Actions

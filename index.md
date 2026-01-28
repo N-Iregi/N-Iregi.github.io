@@ -88,7 +88,6 @@ To build and secure scalable digital systems by combining
 
 Enough details. Tag along as I show the world what I am capable of through my documented learning journey in this portfolio! 
 
----
 
 ### 🔗 Explore
 - 📄 [Resume](/resume/)

@@ -40,7 +40,7 @@ To build and **secure scalable digital systems** by combining
 
 
 ### 🔐 Cybersecurity
-<i class="fas fa-lock"></i> Secure API Design
+<i class="fas fa-lock"></i> Secure API Design &nbsp; | &nbsp;
 <i class="fa-solid fa-cloud"></i> Cloud Security (AWS, Azure) &nbsp; | &nbsp;
 <i class="fas fa-shield-alt"></i> Threat Detection &nbsp; | &nbsp;
 <i class="fas fa-bug"></i> Vulnerability Analysis &nbsp; | &nbsp;

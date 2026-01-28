@@ -9,12 +9,12 @@ author_profile: true
 
 **Hey there! Welcome to my portfolio.**
 
-My name is Neville Iregi, a software engineering student specializing in Full-Stack Development at African Leadership University. 
+My name is Neville Iregi, a BSC.(Hons) Software Engineering student specializing in Full-Stack Development at African Leadership University. 
 
 I am a curious and solutions-oriented Software Engineer passionate about securing and strengthening digital infrastructures in Africa.
 
 ## My mission
-To build and **secure scalable digital systems** by combining  
+To build and secure scalable digital systems by combining  
 **software engineering, cloud infrastructure, and security-first design**.
 
 ## My focus areas
@@ -25,6 +25,17 @@ To build and **secure scalable digital systems** by combining
 - DevSecOps
 
 ## 🛠️ Skills & Technologies
+
+### Front-end Development
+<i class="fa-solid fa-code"></i> HTML &nbsp; | &nbsp;
+<i class="fa-brands fa-css"></i> CSS &nbsp; | &nbsp;
+<i class="fa-brands fa-figma"></i> Figma &nbsp; | &nbsp;
+<i class="fa-brands fa-react"></i> React
+
+
+---
+
+
 
 ### 💻 Programming & Scripting
 <i class="fab fa-python"></i> Python &nbsp; | &nbsp;
@@ -45,7 +56,7 @@ To build and **secure scalable digital systems** by combining
 <i class="fas fa-shield-alt"></i> Threat Detection &nbsp; | &nbsp;
 <i class="fas fa-bug"></i> Vulnerability Analysis &nbsp; | &nbsp;
 <i class="fa-solid fa-shield-halved"></i> Penetration Testing &nbsp; | &nbsp;
-<i class="fas fa-network-wired"></i> Network Security &nbsp; | &nbsp;
+<i class="fas fa-network-wired"></i> Network Security & Analysis &nbsp; | &nbsp;
 <i class="fas fa-lock"></i> Secure API Design
 
 
@@ -55,21 +66,28 @@ To build and **secure scalable digital systems** by combining
 <i class="fab fa-docker"></i> Docker &nbsp; | &nbsp;
 <i class="fab fa-linux"></i> Linux &nbsp; | &nbsp;
 <i class="fas fa-server"></i> HAProxy &nbsp; | &nbsp;
+<i class="fas fa-server"></i> NGINX &nbsp; | &nbsp;
 <i class="fab fa-github"></i> GitHub Actions
+
 
 ---
 
+
+
 ### 🧰 Tools & Platforms
 <i class="fas fa-search"></i> ThreatFox API &nbsp; | &nbsp;
-<i class="fas fa-database"></i> SQLite &nbsp; | &nbsp;
+<i class="fas fa-database"></i> SQL & SQLite &nbsp; | &nbsp;
 <i class="fas fa-code-branch"></i> Git &nbsp; | &nbsp;
-<i class="fab fa-jenkins"></i> Jenkins
+<i class="fab fa-jenkins"></i> Jenkins &nbsp; | &nbsp;
+<i class="fa-solid fa-magnifying-glass-chart"></i> Wireshark & tcpdump
+
 
 
 ---
 
 
 Enough details. Tag along as I show the world what I am capable of through my documented learning journey in this portfolio! 
+
 ---
 
 ### 🔗 Explore

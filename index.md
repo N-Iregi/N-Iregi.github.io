@@ -17,7 +17,7 @@ I am a curious and solutions-oriented Software Engineer passionate about securin
 To build and **secure scalable digital systems** by combining  
 **software engineering, cloud infrastructure, and security-first design**.
 
-My focus areas include:
+## My focus areas
 - Secure Software Engineering
 - Cloud Security (AWS & Azure)
 - Identity & Access Management (IAM)
@@ -30,15 +30,24 @@ My focus areas include:
 <i class="fab fa-python"></i> Python &nbsp; | &nbsp;
 <i class="fab fa-js"></i> JavaScript &nbsp; | &nbsp;
 <i class="fab fa-node-js"></i> Node.js &nbsp; | &nbsp;
-<i class="fas fa-code"></i> Bash
+<i class="fas fa-code"></i> Bash &nbsp; | &nbsp;
+<i class="fa-solid fa-c"></i> C &nbsp; | &nbsp;
+<i class="fa-solid fa-terminal"></i> Powershell
+
 
 ---
 
+
+
 ### 🔐 Cybersecurity
+<i class="fas fa-lock"></i> Secure API Design
+<i class="fa-solid fa-cloud"></i> Cloud Security (AWS, Azure) &nbsp; | &nbsp;
 <i class="fas fa-shield-alt"></i> Threat Detection &nbsp; | &nbsp;
 <i class="fas fa-bug"></i> Vulnerability Analysis &nbsp; | &nbsp;
+<i class="fa-solid fa-shield-halved"></i> Penetration Testing &nbsp; | &nbsp;
 <i class="fas fa-network-wired"></i> Network Security &nbsp; | &nbsp;
 <i class="fas fa-lock"></i> Secure API Design
+
 
 ---
 
@@ -55,6 +64,9 @@ My focus areas include:
 <i class="fas fa-database"></i> SQLite &nbsp; | &nbsp;
 <i class="fas fa-code-branch"></i> Git &nbsp; | &nbsp;
 <i class="fab fa-jenkins"></i> Jenkins
+
+
+---
 
 
 Enough details. Tag along as I show the world what I am capable of through my documented learning journey in this portfolio! 

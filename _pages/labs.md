@@ -4,7 +4,7 @@ layout: single
 permalink: /labs/
 author_profile: true
 ---
-## 🔐 Cloud Security & CTF Labs
+## Cloud Security & CTF Labs
 
 A curated collection of hands-on cloud security labs focused on **AWS, Azure, IAM, serverless security, and misconfiguration exploitation**.
 
@@ -19,8 +19,8 @@ A curated collection of hands-on cloud security labs focused on **AWS, Azure, IA
 
 ### AWS Misconfiguration Labs
 
-- 🪣 **[AWS S3 Enumeration & Credential Exposure](/labs/aws-s3-enumeration/)**
-- **[Flaws AWS Challenge](/labs/Flaws-AWS)**
+- **[AWS S3 Enumeration & Credential Exposure](/labs/aws-s3-enumeration/)**
+- **[Flaws AWS Challenge](/labs/Flaws-AWS-challenge)**
 
 ---
 

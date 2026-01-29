@@ -6,8 +6,8 @@ toc: true
 toc_sticky: true
 ---
 ### AWS S3 Enumeration & Credential Escalation
-Category: Cloud Security · AWS
-Focus: S3 Misconfiguration, IAM Abuse, Credential Exposure
+**Category:** Cloud Security · AWS
+**Focus:** S3 Misconfiguration, IAM Abuse, Credential Exposure
 
 **Problem Statement**
 Investigate a static website discovered during a phishing incident and assess whether underlying cloud infrastructure exposes security weaknesses. The objective was to enumerate AWS S3 resources, identify misconfigurations, and determine whether exposed assets could lead to unauthorized access or privilege escalation.

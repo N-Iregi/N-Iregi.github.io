@@ -5,15 +5,15 @@ author_profile: true
 toc: true
 toc_sticky: true
 ---
-## 🧪 Overview
+## Overview
 
 **Category:** Cloud Security · AWS IAM  
 **Difficulty:** Intermediate  
 
-### 📌 Problem Statement
+### Problem Statement
 Evaluate the security of an AWS IAM environment where a low-privileged user has permissions to manage IAM policy versions.
 
-### 🔍 Attack Path
+### Attack Path
 - Enumerated IAM policies attached to the user
 - Identified multiple policy versions
 - Discovered `iam:SetDefaultPolicyVersion`

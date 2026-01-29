@@ -6,20 +6,32 @@ author_profile: true
 ---
 ## 🔐 Cloud Security & CTF Labs
 
-A curated collection of hands-on cloud security labs focused on **AWS, IAM, serverless security, and misconfiguration exploitation**.
+A curated collection of hands-on cloud security labs focused on **AWS, Azure, IAM, serverless security, and misconfiguration exploitation**.
 
 ---
 
-### 🧪 CloudGoat Labs
+### CloudGoat Labs
 
-- 🔓 **[IAM Privilege Escalation by Policy Rollback](/labs/cloudgoat-iam-rollback/)**
-- ⚡ **[Vulnerable Lambda – Serverless Privilege Escalation](/labs/cloudgoat-vulnerable-lambda/)**
+- **[IAM Privilege Escalation by Policy Rollback](/labs/cloudgoat-iam-rollback/)**
+- **[Vulnerable Lambda – Serverless Privilege Escalation](/labs/cloudgoat-vulnerable-lambda/)**
 
 ---
 
-### ☁️ AWS Misconfiguration Labs
+### AWS Misconfiguration Labs
 
 - 🪣 **[AWS S3 Enumeration & Credential Exposure](/labs/aws-s3-enumeration/)**
+- **[Flaws AWS Challenge](/labs/Flaws-AWS)**
+
+---
+
+### Azure Setup Labs
+
+
+---
+---
+
+## Network Security and Configuration labs
+
 
 ---
 

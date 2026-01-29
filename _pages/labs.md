@@ -20,7 +20,7 @@ A curated collection of hands-on cloud security labs focused on **AWS, Azure, IA
 ### AWS Misconfiguration Labs
 
 - **[AWS S3 Enumeration & Credential Exposure](/labs/aws-s3-enumeration/)**
-- **[Flaws AWS Challenge](/labs/flaws-aws-challenge/)**
+- **[Flaws AWS Challenge](/labs/flaws-challenge/)**
 
 ---
 

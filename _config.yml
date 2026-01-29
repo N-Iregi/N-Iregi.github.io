@@ -59,3 +59,7 @@ navigation:
   - title: "Contact"
     url: /contacts/
 
+collections:
+  labs:
+    output: true
+    permalink: /labs/:name/

@@ -25,6 +25,8 @@ A curated collection of hands-on cloud security labs focused on **AWS, Azure, IA
 ---
 
 ### Azure Setup Labs
+- **[Azure Key Vault & Always Encrypted](/labs/azure-key-vault-always-encrypted/)**
+- **[Azure Monitor,Microsoft Defender for cloud, Enable Just-In Time Access in VMs, Microsoft Sentinel](/labs/azure-monitor-defender-jit-sentinel/)**
 
 
 ---

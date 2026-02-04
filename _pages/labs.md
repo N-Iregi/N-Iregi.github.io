@@ -8,8 +8,6 @@ author_profile: true
 
 A curated collection of hands-on cloud security labs focused on **AWS, Azure, IAM, serverless security, and misconfiguration exploitation**.
 
----
-
 ### CloudGoat Labs
 
 - **[IAM Privilege Escalation by Policy Rollback](/labs/cloudgoat-iam-rollback/)**
@@ -35,6 +33,9 @@ A curated collection of hands-on cloud security labs focused on **AWS, Azure, IA
 ---
 
 ## Network Security and Configuration labs
+This section contains a number of networking write-ups focused on the OSI model, TCP/IP, use of packet tracer, wireshark, & tcpdump to learn various networking concepts
+
+### Network Analysis
 - **[Using Wireshark to examine Network Traffic](/labs/network-wireshark/)**
 
 ---

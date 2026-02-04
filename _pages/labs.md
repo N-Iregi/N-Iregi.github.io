@@ -35,7 +35,7 @@ A curated collection of hands-on cloud security labs focused on **AWS, Azure, IA
 ---
 
 ## Network Security and Configuration labs
-
+- **[Using Wireshark to examine Network Traffic](/labs/network-wireshark/)**
 
 ---
 

@@ -51,7 +51,7 @@ Azure Monitor · Log Analytics · Microsoft Defender for Cloud · JIT VM Access 
 # Conclusion:
 These labs provided hands-on experience integrating Azure security services to monitor, detect, and respond to threats effectively. They highlighted the synergy between Azure Monitor, Defender for Cloud, JIT access, and Sentinel, demonstrating real-world cloud security operations and SIEM implementation.
 
-## Full Technical Report
+# Full Technical Report
 
 📄 **Detailed Step-by-Step Lab Report**  
 - [⬇️ Download PDF](/assets/reports/azure-monitor-defender-jit-sentinel.pdf)

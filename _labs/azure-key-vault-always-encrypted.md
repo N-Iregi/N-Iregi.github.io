@@ -104,7 +104,7 @@ Secrets in code | None |
 
 This lab validates a real-world secure data architecture using Azure-native services. By integrating Azure Key Vault with Always Encrypted, sensitive data remains protected throughout its lifecycle while maintaining application functionality. The solution reflects enterprise-grade security practices aligned with zero-trust and least-privilege principles.
 
-## Full Technical Report
+# Full Technical Report
 
 📄 **Detailed Step-by-Step Lab Report**  
 - [⬇️ Download PDF](/assets/reports/Azure-KeyVault-Always-Encrypted-Full.pdf)

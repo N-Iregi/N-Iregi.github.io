@@ -4,25 +4,19 @@ title: "Neville Iregi"
 author_profile: true
 ---
 
-# Software Engineer | Cloud & Cybersecurity Enthusiast | DevSecOps
+# Software Engineer · Low-Level Systems · Cyber Security
 
 
 **Hey there! Welcome to my portfolio.**
 
-My name is Neville Iregi, a BSC.(Hons) Software Engineering student specializing in Full-Stack Development at African Leadership University. 
+My name is Neville Iregi, a BSC.(Hons) Software Engineering student specializing in in low-level programming and security at African Leadership University. 
 
-I am a curious and solutions-oriented Software Engineer passionate about securing and strengthening digital infrastructures in Africa.
-
-## My mission
-To build and secure scalable digital systems by combining  
-**software engineering, cloud infrastructure, and security-first design**.
+My path into security started with cloud configs, IAM, and network hardening. But writing memory allocators in C, reverse-engineering binaries, and working through HackTheBox & TryHackMe labs pulled me toward the systems layer. That's where I want to operate — understanding how things break at the lowest level, not just the application surface.
 
 ## My focus areas
-- Secure Software Engineering
-- Cloud Security (AWS & Azure)
-- Identity & Access Management (IAM)
-- Network Defense & Threat Detection
-- DevSecOps
+- Offensive security — HackTheBox, TryHackMe, CloudGoat red-team scenarios (IAM escalation, Lambda injection, S3 enumeration), Cisco Ethical Hacker (completed)
+- Low-level systems — C programming, memory management, Linux internals, embedded systems (ESP32, Arduino)
+- Cloud & network security — AWS, Azure, Kubernetes (KCNA in progress), Docker, Terraform, Wireshark, tcpdump, firewall configuration, VLANs, CIS Benchmark hardening
 
 ## 🛠️ Skills & Technologies
 
@@ -58,6 +52,7 @@ To build and secure scalable digital systems by combining
 <i class="fa-solid fa-shield-halved"></i> Penetration Testing &nbsp; | &nbsp;
 <i class="fas fa-network-wired"></i> Network Security & Analysis &nbsp; | &nbsp;
 <i class="fas fa-lock"></i> Secure API Design
+<i class="">
 
 
 ---

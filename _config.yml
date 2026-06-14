@@ -35,9 +35,9 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:n.iregi@alustudent.com"
-    - label: "Medium"
-      icon: "fab fa-medium"
-      url: "https://medium.com/@n.iregi"
+    - label: "Hashnode"
+      icon: "fa-brands fa-hashnode"
+      url: "https://m0ng00s3-blog.hashnode.dev"
 
 defaults:
   - scope:

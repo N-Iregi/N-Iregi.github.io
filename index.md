@@ -20,6 +20,18 @@ My path into security started with cloud configs, IAM, and network hardening. Bu
 
 ## 🛠️ Skills & Technologies
 
+### ⚙️ Low-Level & Systems
+<i class="fa-solid fa-c"></i> C &nbsp;|&nbsp;
+<i class="fa-solid fa-microchip"></i> x86 Assembly &nbsp;|&nbsp;
+<i class="fa-solid fa-bug"></i> GDB &nbsp;|&nbsp;
+<i class="fa-brands fa-linux"></i> Linux Internals &nbsp;|&nbsp;
+<i class="fa-solid fa-memory"></i> Memory Management &nbsp;|&nbsp;
+<i class="fa-solid fa-terminal"></i> Bash/Shell Scripting &nbsp;|&nbsp;
+<i class="fa-solid fa-microchip"></i> Embedded Systems (ESP32, Arduino)
+
+
+---
+
 ### Front-end Development
 <i class="fa-solid fa-code"></i> HTML &nbsp; | &nbsp;
 <i class="fa-brands fa-css"></i> CSS &nbsp; | &nbsp;
@@ -51,9 +63,8 @@ My path into security started with cloud configs, IAM, and network hardening. Bu
 <i class="fas fa-bug"></i> Vulnerability Analysis &nbsp; | &nbsp;
 <i class="fa-solid fa-shield-halved"></i> Penetration Testing &nbsp; | &nbsp;
 <i class="fas fa-network-wired"></i> Network Security & Analysis &nbsp; | &nbsp;
-<i class="fas fa-lock"></i> Secure API Design
-<i class="">
-
+<i class="fas fa-lock"></i> Secure API Design &nbsp; | &nbsp;
+<i class="fa-brands fa-sistrix"></i> Reverse Engineering
 
 ---
 
@@ -75,7 +86,9 @@ My path into security started with cloud configs, IAM, and network hardening. Bu
 <i class="fas fa-database"></i> SQL & SQLite &nbsp; | &nbsp;
 <i class="fas fa-code-branch"></i> Git &nbsp; | &nbsp;
 <i class="fab fa-jenkins"></i> Jenkins &nbsp; | &nbsp;
-<i class="fa-solid fa-magnifying-glass-chart"></i> Wireshark & tcpdump
+<i class="fa-solid fa-magnifying-glass-chart"></i> Wireshark & tcpdump &nbsp; | &nbsp;
+<i class="fa-solid fa-dragon"></i> Ghidra
+
 
 
 

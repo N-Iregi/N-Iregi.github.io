@@ -1,11 +1,8 @@
 ---
 layout: home
-title: "Neville Iregi"
+title: "Neville Iregi - Software Engineer · Low-Level Systems · Cyber Security"
 author_profile: true
 ---
-
-# Software Engineer · Low-Level Systems · Cyber Security
-
 
 **Hey there! Welcome to my portfolio.**
 

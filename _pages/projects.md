@@ -5,10 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-## 🧪 Projects
-
----
-
 ### 🔹 Jikinge Africa — Cybersecurity Awareness Platform
 **React 18 · Vite · Node.js · Express · SQLite · JWT · TOTP MFA · Vercel · Render**
 

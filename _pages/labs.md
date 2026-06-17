@@ -4,6 +4,13 @@ layout: single
 permalink: /labs/
 author_profile: true
 ---
+
+A documented record of hands-on security labs, CTF challenges, and research
+write-ups across offensive security, cloud misconfiguration, networking, and
+systems. Labs marked **↗** open on Hashnode
+
+---
+
 ## Cloud Security & CTF Labs
 A curated collection of hands-on cloud security labs focused on **AWS, Azure, IAM, serverless security, and misconfiguration exploitation**.
 
@@ -27,6 +34,16 @@ A curated collection of hands-on cloud security labs focused on **AWS, Azure, IA
 - **[Azure Firewall](/labs/azure-firewall/)**
 
 ---
+
+## 🔬 Low-Level & Reverse Engineering
+
+Binary analysis, crackme challenges, and low-level exploitation work.
+
+- **[Solving a Simple Crackme — C Keygen & objdump Analysis ↗](https://m0ng00s3-blog.hashnode.dev/solving-a-simple-crackme)**
+  — Reverse engineer `101-crackme` using objdump to understand the password
+  validation logic, then write a C program to generate valid passwords.
+  Covers x86-64 assembly analysis, control flow, and keygen development.
+
 ---
 
 ## Network Security and Configuration labs
@@ -53,11 +70,28 @@ This section contains a number of networking write-ups focused on the OSI model,
 - **[HTB Academy: Introduction to Network Traffic Analysis](/labs/network-htb-intro-to-nta/)**
   — tcpdump and Wireshark across five lab scenarios: traffic baselining, packet filtering, file extraction from HTTP, live incident analysis (Netcat shell detection), and RDP decryption using a recovered RSA key.
   Includes full incident analysis workflow and module completion certificate.
+
 ### TryHackMe
 - **[DNS In Detail](/labs/thm-dns-in-detail/)**
   — DNS hierarchy (TLD, SLD, subdomains), record types (A, AAAA, CNAME,
   MX, TXT), full lookup flow from client to authoritative server, TTL
   caching, DNSSEC, and practical `nslookup` queries.
+
+### SMB Enumeration
+- **[Scanning for SMB Vulnerabilities with enum4linux ↗](https://m0ng00s3-blog.hashnode.dev/scanning-for-smb-vulnerabilities-with-enum4linux)**
+  — Use enum4linux to enumerate SMB shares, users, and vulnerabilities.
+  Part of the Cisco Ethical Hacker course network exploitation module.
+
+---
+
+## 🔍 OSINT & Reconnaissance
+
+Passive and active reconnaissance using open-source intelligence tools.
+
+- **[OSINT Tools: SpiderFoot, Recon-ng & the OSINT Framework](/labs/osint-tools-spiderfoot-recon-ng/)**
+  — Username enumeration with WhatsMyName, automated footprinting with
+  SpiderFoot, and structured modular recon with Recon-ng. Covers passive
+  vs active scanning trade-offs.
 
 ---
 
@@ -73,5 +107,37 @@ and security perspective.
 
 
 ---
+
+## 💀 HackTheBox
+
+Active labs and machine writeups from HackTheBox. Full exploitation chains
+with tools, methodology, and lessons learned.
+
+### Starting Point
+
+- **[Appointment — SQL Injection ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-appointment)**
+  — SQL injection against a web application login. Covers SQLi syntax,
+  authentication bypass, and database-backed web app enumeration.
+- **[Bike — Node.js SSTI & Sandbox Escape ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-bike)**
+  — Server-Side Template Injection in Handlebars, sandbox escape via
+  `process.mainModule`, remote code execution chain.
+- **[Responder — NTLM Poisoning & Password Cracking ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-responder)**
+  — NTLM hash capture via LLMNR/NBT-NS poisoning with Responder, offline
+  cracking with Hashcat. Active Directory authentication attack chain.
+- **[Three — AWS S3 Misconfiguration ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-lab-three)**
+  — Cloud misconfiguration exploitation via exposed S3 bucket. Covers cloud
+  enumeration, credential exposure, and web shell upload.
+- **[Funnel — SSH Tunneling & FTP Anonymous Auth ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-funnel)**
+  — Anonymous FTP authentication exposing cleartext credentials, SSH
+  local port forwarding to pivot into internal services.
+- **[Pennyworth — Jenkins RCE ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-pennyworth)**
+  — Misconfigured Jenkins instance with default credentials leading to
+  remote code execution via Groovy script console.
+- **[Vaccine — PostgreSQL SQLi & sudo Abuse ↗](https://m0ng00s3-blog.hashnode.dev/hack-the-box-vaccine)**
+  — FTP enumeration, hash cracking, PostgreSQL SQL injection to RCE,
+  privilege escalation via misconfigured sudo binary.
+
+---
+
 
 > Each lab includes the problem statement, exploitation path, tools used, security impact, and defensive lessons learned.

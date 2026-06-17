@@ -17,6 +17,7 @@ My path into security started with cloud configs, IAM, and network hardening. Bu
 - Offensive security — HackTheBox, TryHackMe, CloudGoat red-team scenarios (IAM escalation, Lambda injection, S3 enumeration), Cisco Ethical Hacker (completed)
 - Low-level systems — C programming, memory management, Linux internals, embedded systems (ESP32, Arduino)
 - Cloud & network security — AWS, Azure, Kubernetes (KCNA in progress), Docker, Terraform, Wireshark, tcpdump, firewall configuration, VLANs, CIS Benchmark hardening
+- Defensive Security - Getting into digital forensics & incident response, malware analysis, SOC operations
 
 ## 🛠️ Skills & Technologies
 
